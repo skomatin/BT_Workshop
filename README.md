@@ -3,8 +3,10 @@
 
 Instructions to get started:
 
-1. Clone this Github Repo and open the 
-2. 
+1. Clone this Github Repo and open the BT_workshop_arduino file
+2. Build the circuit as instructed
+3. Connect the arduino to your computer and upload the .ino file
+4. Open the Xcode project in the other folder
 
 
 #### Useful Keyboard shortcuts:
