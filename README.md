@@ -28,7 +28,6 @@ Build code               : CMD + B
 #### Common Issues:
 - If the Arduino Serial Monitor is not responding to AT commands, try disconnecting the arduino cable and reconnecting
 - [XCode] Code Signing Required: https://stackoverflow.com/questions/37806538/code-signing-is-required-for-product-type-application-in-sdk-ios-10-0-stic
-- 
 
 #### Learn More:
 - Colin's Tutorial: https://www.mrswirlyeyes.com/tutorials/bluetooth_hm_10
