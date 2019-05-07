@@ -14,6 +14,8 @@
 		FDDA77E42280E6D200ADBD34 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDDA77E22280E6D200ADBD34 /* LaunchScreen.storyboard */; };
 		FDDA77EC2280E7C800ADBD34 /* BT_interface_soltn.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDDA77EB2280E7C800ADBD34 /* BT_interface_soltn.swift */; };
 		FDDA77EE2281004F00ADBD34 /* BT_interface.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDDA77ED2281004F00ADBD34 /* BT_interface.swift */; };
+		FDDA77F0228103F500ADBD34 /* soltn.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDDA77EF228103F500ADBD34 /* soltn.storyboard */; };
+		FDDA77F22281047600ADBD34 /* soltnViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDDA77F12281047600ADBD34 /* soltnViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		FDDA77E52280E6D200ADBD34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FDDA77EB2280E7C800ADBD34 /* BT_interface_soltn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BT_interface_soltn.swift; sourceTree = "<group>"; };
 		FDDA77ED2281004F00ADBD34 /* BT_interface.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BT_interface.swift; sourceTree = "<group>"; };
+		FDDA77EF228103F500ADBD34 /* soltn.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = soltn.storyboard; sourceTree = "<group>"; };
+		FDDA77F12281047600ADBD34 /* soltnViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = soltnViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,11 +62,13 @@
 		FDDA77D82280E6CE00ADBD34 /* BT_workshop */ = {
 			isa = PBXGroup;
 			children = (
-				FDDA77EB2280E7C800ADBD34 /* BT_interface_soltn.swift */,
-				FDDA77ED2281004F00ADBD34 /* BT_interface.swift */,
 				FDDA77D92280E6CE00ADBD34 /* AppDelegate.swift */,
+				FDDA77ED2281004F00ADBD34 /* BT_interface.swift */,
 				FDDA77DB2280E6CE00ADBD34 /* ViewController.swift */,
 				FDDA77DD2280E6CE00ADBD34 /* Main.storyboard */,
+				FDDA77EF228103F500ADBD34 /* soltn.storyboard */,
+				FDDA77F12281047600ADBD34 /* soltnViewController.swift */,
+				FDDA77EB2280E7C800ADBD34 /* BT_interface_soltn.swift */,
 				FDDA77E02280E6D200ADBD34 /* Assets.xcassets */,
 				FDDA77E22280E6D200ADBD34 /* LaunchScreen.storyboard */,
 				FDDA77E52280E6D200ADBD34 /* Info.plist */,
@@ -130,6 +136,7 @@
 				FDDA77E42280E6D200ADBD34 /* LaunchScreen.storyboard in Resources */,
 				FDDA77E12280E6D200ADBD34 /* Assets.xcassets in Resources */,
 				FDDA77DF2280E6CE00ADBD34 /* Main.storyboard in Resources */,
+				FDDA77F0228103F500ADBD34 /* soltn.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -143,6 +150,7 @@
 				FDDA77DC2280E6CE00ADBD34 /* ViewController.swift in Sources */,
 				FDDA77DA2280E6CE00ADBD34 /* AppDelegate.swift in Sources */,
 				FDDA77EC2280E7C800ADBD34 /* BT_interface_soltn.swift in Sources */,
+				FDDA77F22281047600ADBD34 /* soltnViewController.swift in Sources */,
 				FDDA77EE2281004F00ADBD34 /* BT_interface.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
