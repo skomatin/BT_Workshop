@@ -15,14 +15,14 @@ Instructions to get started:
 
 Arduino IDE :
 
-Uploade code to the Board: CMD + U
-Compile code             : CMD + R
-Open Serial Monitor      : CMD + SHIFT + M
+- Uploade code to the Board: CMD + U
+- Compile code             : CMD + R
+- Open Serial Monitor      : CMD + SHIFT + M
 
 XCODE: 
 
-Run simulation           : CMD + R
-Build code               : CMD + B
+- Run simulation           : CMD + R
+- Build code               : CMD + B
 
 
 #### Common Issues:
